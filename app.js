@@ -1,1 +1,1 @@
-console
+console("hiw are you")
